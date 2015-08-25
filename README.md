@@ -1,2 +1,6 @@
-# home-automation-system
-A Conceptual HAS using Atmel SAM7 Micro and a Variety of Peripheral Devices
+Home Automation System (HAS)
+============================
+
+A conceptual HAS using Atmel SAM7 micro and a variety of peripheral devices.
+
+Authors: Aydin Arik, Kevin Doran and Tim Grunshaw
